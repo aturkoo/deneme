@@ -1,0 +1,22 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.not-input {
+    display: none;
+}
+
+.not-input1 {
+    display: none;
+}
+
+.not-input2 {
+    display: none;
+}
+
+.soldan {
+    margin-left: 17px;
+}
