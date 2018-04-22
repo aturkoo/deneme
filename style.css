@@ -17,6 +17,27 @@
     display: none;
 }
 
-.soldan {
+/* .soldan {
     margin-left: 17px;
+} */
+
+select {
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+.main-img {
+    margin-bottom: 2rem;
+}
+
+.btn-row {
+    float: right;
+}
+
+.container {
+    margin-top: 3rem;
+}
+
+.pqNotu,.aqNotu,.mtNotu {
+    width: 70%;
 }

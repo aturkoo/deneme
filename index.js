@@ -95,6 +95,10 @@ $(document).ready(function () {
             var sonuc = ((toplamPop / popQuizSayisi) * popQuizCons) + ((toplamHaberli / haberliQuizSayisi) * haberliQuizCons) + ((toplamMidterm / midTermSayisi) * midTermCons);
 
             alert(sonuc);
+
+            popQuizNotlari = [];
+            haberliQuizNotlari = [];
+            midTermNotlari = [];
         }
 
 
